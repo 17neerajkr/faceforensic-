@@ -1,3 +1,10 @@
+
+> ⚠️ **Notice:**  
+> This project is currently under active development 🚧.  
+> Features, layout, and functionality may change frequently.  
+> Stay tuned for updates and improvements!
+
+
 overview to faster understanding :
 
 The Deepfake Detector project focuses on identifying fake videos and images that are generated using AI, commonly known as deepfakes. These fake media files can be used to spread misinformation, harm someone's reputation, or even be used for scams. With the increasing use of such content, it's important to have a system that can detect whether a video or image is real or fake.
